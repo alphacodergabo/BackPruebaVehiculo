@@ -1,0 +1,13 @@
+D:\Postulación\ProjectVehicles\Security\bin\Debug\netcoreapp3.1\Security.deps.json
+D:\Postulación\ProjectVehicles\Security\bin\Debug\netcoreapp3.1\Security.dll
+D:\Postulación\ProjectVehicles\Security\bin\Debug\netcoreapp3.1\Security.pdb
+D:\Postulación\ProjectVehicles\Security\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Postulación\ProjectVehicles\Security\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.csproj.AssemblyReference.cache
+D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.AssemblyInfoInputs.cache
+D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.AssemblyInfo.cs
+D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.csproj.CoreCompileInputs.cache
+D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.csproj.CopyComplete
+D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.dll
+D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.pdb

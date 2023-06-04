@@ -1,0 +1,17 @@
+D:\Postulación\ProjectVehicles\USER_APP\bin\Debug\netcoreapp3.1\USER_APP.deps.json
+D:\Postulación\ProjectVehicles\USER_APP\bin\Debug\netcoreapp3.1\USER_APP.dll
+D:\Postulación\ProjectVehicles\USER_APP\bin\Debug\netcoreapp3.1\USER_APP.pdb
+D:\Postulación\ProjectVehicles\USER_APP\obj\Debug\netcoreapp3.1\USER_APP.csproj.AssemblyReference.cache
+D:\Postulación\ProjectVehicles\USER_APP\obj\Debug\netcoreapp3.1\USER_APP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Postulación\ProjectVehicles\USER_APP\obj\Debug\netcoreapp3.1\USER_APP.AssemblyInfoInputs.cache
+D:\Postulación\ProjectVehicles\USER_APP\obj\Debug\netcoreapp3.1\USER_APP.AssemblyInfo.cs
+D:\Postulación\ProjectVehicles\USER_APP\obj\Debug\netcoreapp3.1\USER_APP.csproj.CoreCompileInputs.cache
+D:\Postulación\ProjectVehicles\USER_APP\obj\Debug\netcoreapp3.1\USER_APP.dll
+D:\Postulación\ProjectVehicles\USER_APP\obj\Debug\netcoreapp3.1\USER_APP.pdb
+D:\Postulación\ProjectVehicles\USER_APP\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Postulación\ProjectVehicles\USER_APP\bin\Debug\netcoreapp3.1\Entities.dll
+D:\Postulación\ProjectVehicles\USER_APP\bin\Debug\netcoreapp3.1\Persistence.dll
+D:\Postulación\ProjectVehicles\USER_APP\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\Postulación\ProjectVehicles\USER_APP\bin\Debug\netcoreapp3.1\Persistence.pdb
+D:\Postulación\ProjectVehicles\USER_APP\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Postulación\ProjectVehicles\USER_APP\obj\Debug\netcoreapp3.1\USER_APP.csproj.CopyComplete

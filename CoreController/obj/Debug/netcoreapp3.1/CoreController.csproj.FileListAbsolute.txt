@@ -1,0 +1,10 @@
+D:\Postulación\ProjectVehicles\CoreController\bin\Debug\netcoreapp3.1\CoreController.deps.json
+D:\Postulación\ProjectVehicles\CoreController\bin\Debug\netcoreapp3.1\CoreController.dll
+D:\Postulación\ProjectVehicles\CoreController\bin\Debug\netcoreapp3.1\CoreController.pdb
+D:\Postulación\ProjectVehicles\CoreController\obj\Debug\netcoreapp3.1\CoreController.csproj.AssemblyReference.cache
+D:\Postulación\ProjectVehicles\CoreController\obj\Debug\netcoreapp3.1\CoreController.GeneratedMSBuildEditorConfig.editorconfig
+D:\Postulación\ProjectVehicles\CoreController\obj\Debug\netcoreapp3.1\CoreController.AssemblyInfoInputs.cache
+D:\Postulación\ProjectVehicles\CoreController\obj\Debug\netcoreapp3.1\CoreController.AssemblyInfo.cs
+D:\Postulación\ProjectVehicles\CoreController\obj\Debug\netcoreapp3.1\CoreController.csproj.CoreCompileInputs.cache
+D:\Postulación\ProjectVehicles\CoreController\obj\Debug\netcoreapp3.1\CoreController.dll
+D:\Postulación\ProjectVehicles\CoreController\obj\Debug\netcoreapp3.1\CoreController.pdb
