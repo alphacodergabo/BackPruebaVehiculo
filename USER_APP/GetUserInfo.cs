@@ -5,6 +5,7 @@ using MediatR;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Persistence;
+using Security.SecurityToken.Contracts;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,14 +31,19 @@ namespace USER_APP
         public class Manejado : IRequestHandler<Ejecuta, UserInfoDTO>
         {
             private readonly AplicationContext _context;
-            public Manejado(AplicationContext context)
+            private readonly IUsuarioSesion _usuarioSesion;
+            private readonly UserManager<User> _userManager;
+            public Manejado(AplicationContext context, IUsuarioSesion usuarioSesion, UserManager<User> userManager)
             {
                 _context = context;
+                _usuarioSesion = usuarioSesion;
+                _userManager = userManager;
             }
             public async Task<UserInfoDTO> Handle(Ejecuta request, CancellationToken cancellationToken)
             {
                 try
                 {
+                    var user_data = await _userManager.FindByNameAsync(_usuarioSesion.ObtenerUsuarioSesion());
                     var user = await _context.User.FirstOrDefaultAsync(x => x.Id == request.UserId);
                     var Result = await _context.User.Select(
                         x => new UserInfoDTO

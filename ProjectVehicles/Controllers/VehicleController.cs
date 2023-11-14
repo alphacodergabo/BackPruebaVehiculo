@@ -9,6 +9,7 @@ namespace ProjectVehicles.Controllers
 {
     [Route("api/WS_US/[controller]")]
     [ApiController]
+    [Authorize]
     public class VehicleController : UBaseController
     {
         [HttpPost("GetUserInfo")]

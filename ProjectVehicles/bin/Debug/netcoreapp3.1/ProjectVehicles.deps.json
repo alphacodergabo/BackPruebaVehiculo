@@ -1916,7 +1916,8 @@
           "Entities": "1.0.0",
           "FluentValidation.AspNetCore": "8.6.3",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
-          "Persistence": "1.0.0"
+          "Persistence": "1.0.0",
+          "Security": "1.0.0"
         },
         "runtime": {
           "USER_APP.dll": {}

@@ -21,22 +21,28 @@ namespace Security.SecurityToken
         {
             string encryptionKid = _configuration["secretKey"];
             var claims = new List<Claim>(){
-                new Claim("UserId", usuario.Id),
                 new Claim(JwtRegisteredClaimNames.NameId, usuario.UserName),
                 new Claim(JwtRegisteredClaimNames.Sub, usuario.Email),
                 new Claim(JwtRegisteredClaimNames.UniqueName, usuario.Name + " " + usuario.LastName)
             };
-            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(encryptionKid.ToString()));
-            var credenciales = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
-            var tokenDescripcion = new SecurityTokenDescriptor
+            //var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(encryptionKid.ToString()));
+            //var credenciales = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
+            //var encryptionKid = _configuration["secretKey"];
+
+            var secret = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(encryptionKid));
+            var signingCredentials = new SigningCredentials(secret, SecurityAlgorithms.HmacSha256);
+            var encryptionCredentials = new EncryptingCredentials(secret, JwtConstants.DirectKeyUseAlg, SecurityAlgorithms.Aes256CbcHmacSha512);
+            var tokenOptions = new JwtSecurityTokenHandler().CreateJwtSecurityToken(new SecurityTokenDescriptor()
             {
+                Audience = "audience",
+                Issuer = "issuer",
                 Subject = new ClaimsIdentity(claims),
-                Expires = DateTime.Now.AddDays(2),
-                SigningCredentials = credenciales
-            };
-            var tokenManejador = new JwtSecurityTokenHandler();
-            var token = tokenManejador.CreateToken(tokenDescripcion);
-            return tokenManejador.WriteToken(token);
+                Expires = DateTime.Now.AddDays(1),
+                EncryptingCredentials = encryptionCredentials,
+                SigningCredentials = signingCredentials
+            });
+
+            return new JwtSecurityTokenHandler().WriteToken(tokenOptions);
         }
     }
 }

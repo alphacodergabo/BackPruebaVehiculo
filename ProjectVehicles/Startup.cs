@@ -68,13 +68,20 @@ namespace ProjectVehicles
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt => {
                 opt.TokenValidationParameters = new TokenValidationParameters
                 {
+                    ValidIssuer = "issuer",
+                    ValidAudience = "audience",
                     ValidateIssuerSigningKey = true,
+                    ValidateLifetime = true,
+                    RequireExpirationTime = true,
+                    ValidateIssuer = true,
+                    ValidateAudience = true,
                     IssuerSigningKey = key,
-                    ValidateAudience = false,
-                    ValidateIssuer = false
+                    TokenDecryptionKey = key,
+                    ClockSkew = TimeSpan.Zero
                 };
             });
             services.AddScoped<IJwtGenerador, JwtGenerator>();
+            services.AddScoped<IUsuarioSesion, UsuarioSesion>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -84,12 +91,13 @@ namespace ProjectVehicles
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseAuthentication();
 
             app.UseHttpsRedirection();
 
             app.UseRouting();
 
-            app.UseCors(options => options.WithOrigins("http://localhost:4200").AllowAnyMethod().AllowAnyHeader());
+            app.UseCors(options => options.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
             app.UseAuthorization();
 
