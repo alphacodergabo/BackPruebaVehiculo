@@ -43,7 +43,8 @@ namespace USER_APP
             {
                 try
                 {
-                    var user_data = await _userManager.FindByNameAsync(_usuarioSesion.ObtenerUsuarioSesion());
+                    ValueJWT ClaimList =_usuarioSesion.ObtenerUsuarioSesion();
+                    var Nombre = ClaimList.Nombre;
                     var user = await _context.User.FirstOrDefaultAsync(x => x.Id == request.UserId);
                     var Result = await _context.User.Select(
                         x => new UserInfoDTO

@@ -56,11 +56,17 @@ namespace IT_APP
                     var resultado = await _signInManager.CheckPasswordSignInAsync(user, request.Password, false);
                     if (resultado.Succeeded)
                     {
+                         var infoToken = new UserJWT {
+                            Nombre = user.Name,
+                            Mail = user.Email,
+                            Nombre_Completo = user.Name +  ' ' + user.LastName
+
+                         };
                         return new UserDataResponse
                         {
                             UserId = user.Id,
                             NombreCompleto = user.Name + " " + user.LastName ,
-                            Token = _jwtGenerador.CrearToken(user),
+                            Token = _jwtGenerador.CrearToken(infoToken),
                             Username = user.UserName,
                             Email = user.Email
                         };

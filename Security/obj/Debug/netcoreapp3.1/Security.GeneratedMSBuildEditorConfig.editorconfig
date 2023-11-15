@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Security
-build_property.ProjectDir = D:\Postulación\ProjectVehicles\Security\
+build_property.ProjectDir = E:\PayloadJWT\BackPruebaVehiculo\Security\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

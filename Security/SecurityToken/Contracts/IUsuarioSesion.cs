@@ -6,6 +6,6 @@ namespace Security.SecurityToken.Contracts
 {
     public interface IUsuarioSesion
     {
-        string ObtenerUsuarioSesion();
+        ValueJWT ObtenerUsuarioSesion();
     }
 }

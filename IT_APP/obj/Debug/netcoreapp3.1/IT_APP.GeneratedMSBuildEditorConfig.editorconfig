@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = IT_APP
-build_property.ProjectDir = D:\Postulación\ProjectVehicles\IT_APP\
+build_property.ProjectDir = E:\PayloadJWT\BackPruebaVehiculo\IT_APP\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

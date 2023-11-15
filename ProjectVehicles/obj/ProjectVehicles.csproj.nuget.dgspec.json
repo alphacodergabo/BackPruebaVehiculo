@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Postulación\\ProjectVehicles\\ProjectVehicles\\ProjectVehicles.csproj": {}
+    "E:\\PayloadJWT\\BackPruebaVehiculo\\ProjectVehicles\\ProjectVehicles.csproj": {}
   },
   "projects": {
-    "D:\\Postulación\\ProjectVehicles\\CoreController\\CoreController.csproj": {
+    "E:\\PayloadJWT\\BackPruebaVehiculo\\CoreController\\CoreController.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Postulación\\ProjectVehicles\\CoreController\\CoreController.csproj",
+        "projectUniqueName": "E:\\PayloadJWT\\BackPruebaVehiculo\\CoreController\\CoreController.csproj",
         "projectName": "CoreController",
-        "projectPath": "D:\\Postulación\\ProjectVehicles\\CoreController\\CoreController.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Postulación\\ProjectVehicles\\CoreController\\obj\\",
+        "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\CoreController\\CoreController.csproj",
+        "packagesPath": "C:\\Users\\gabo9\\.nuget\\packages\\",
+        "outputPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\CoreController\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gabo9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,25 +65,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Postulación\\ProjectVehicles\\Domain\\Domain.csproj": {
+    "E:\\PayloadJWT\\BackPruebaVehiculo\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Postulación\\ProjectVehicles\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\PayloadJWT\\BackPruebaVehiculo\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Postulación\\ProjectVehicles\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Postulación\\ProjectVehicles\\Domain\\obj\\",
+        "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\gabo9\\.nuget\\packages\\",
+        "outputPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gabo9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -123,7 +116,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -135,25 +129,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Postulación\\ProjectVehicles\\Entities\\Entities.csproj": {
+    "E:\\PayloadJWT\\BackPruebaVehiculo\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Postulación\\ProjectVehicles\\Entities\\Entities.csproj",
+        "projectUniqueName": "E:\\PayloadJWT\\BackPruebaVehiculo\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Postulación\\ProjectVehicles\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Postulación\\ProjectVehicles\\Entities\\obj\\",
+        "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\gabo9\\.nuget\\packages\\",
+        "outputPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Entities\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gabo9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -184,7 +174,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -193,25 +184,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Postulación\\ProjectVehicles\\IT_APP\\IT_APP.csproj": {
+    "E:\\PayloadJWT\\BackPruebaVehiculo\\IT_APP\\IT_APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Postulación\\ProjectVehicles\\IT_APP\\IT_APP.csproj",
+        "projectUniqueName": "E:\\PayloadJWT\\BackPruebaVehiculo\\IT_APP\\IT_APP.csproj",
         "projectName": "IT_APP",
-        "projectPath": "D:\\Postulación\\ProjectVehicles\\IT_APP\\IT_APP.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Postulación\\ProjectVehicles\\IT_APP\\obj\\",
+        "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\IT_APP\\IT_APP.csproj",
+        "packagesPath": "C:\\Users\\gabo9\\.nuget\\packages\\",
+        "outputPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\IT_APP\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gabo9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -225,17 +212,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Postulación\\ProjectVehicles\\CoreController\\CoreController.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\CoreController\\CoreController.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\CoreController\\CoreController.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\CoreController\\CoreController.csproj"
               },
-              "D:\\Postulación\\ProjectVehicles\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\Domain\\Domain.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Domain\\Domain.csproj"
               },
-              "D:\\Postulación\\ProjectVehicles\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\Entities\\Entities.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Entities\\Entities.csproj"
               },
-              "D:\\Postulación\\ProjectVehicles\\Security\\Security.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\Security\\Security.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\Security\\Security.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Security\\Security.csproj"
               }
             }
           }
@@ -273,7 +260,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -285,25 +273,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Postulación\\ProjectVehicles\\Persistence\\Persistence.csproj": {
+    "E:\\PayloadJWT\\BackPruebaVehiculo\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Postulación\\ProjectVehicles\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "E:\\PayloadJWT\\BackPruebaVehiculo\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\Postulación\\ProjectVehicles\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Postulación\\ProjectVehicles\\Persistence\\obj\\",
+        "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\gabo9\\.nuget\\packages\\",
+        "outputPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gabo9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -317,8 +301,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Postulación\\ProjectVehicles\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\Domain\\Domain.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Domain\\Domain.csproj"
               }
             }
           }
@@ -337,7 +321,7 @@
               "target": "Package",
               "version": "[3.1.1, )"
             },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.1.1, )"
             },
@@ -356,7 +340,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -368,25 +353,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Postulación\\ProjectVehicles\\ProjectVehicles\\ProjectVehicles.csproj": {
+    "E:\\PayloadJWT\\BackPruebaVehiculo\\ProjectVehicles\\ProjectVehicles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Postulación\\ProjectVehicles\\ProjectVehicles\\ProjectVehicles.csproj",
+        "projectUniqueName": "E:\\PayloadJWT\\BackPruebaVehiculo\\ProjectVehicles\\ProjectVehicles.csproj",
         "projectName": "ProjectVehicles",
-        "projectPath": "D:\\Postulación\\ProjectVehicles\\ProjectVehicles\\ProjectVehicles.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Postulación\\ProjectVehicles\\ProjectVehicles\\obj\\",
+        "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\ProjectVehicles\\ProjectVehicles.csproj",
+        "packagesPath": "C:\\Users\\gabo9\\.nuget\\packages\\",
+        "outputPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\ProjectVehicles\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gabo9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -400,20 +381,20 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Postulación\\ProjectVehicles\\CoreController\\CoreController.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\CoreController\\CoreController.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\CoreController\\CoreController.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\CoreController\\CoreController.csproj"
               },
-              "D:\\Postulación\\ProjectVehicles\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\Entities\\Entities.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Entities\\Entities.csproj"
               },
-              "D:\\Postulación\\ProjectVehicles\\IT_APP\\IT_APP.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\IT_APP\\IT_APP.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\IT_APP\\IT_APP.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\IT_APP\\IT_APP.csproj"
               },
-              "D:\\Postulación\\ProjectVehicles\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\Persistence\\Persistence.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\Persistence\\Persistence.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Persistence\\Persistence.csproj"
               },
-              "D:\\Postulación\\ProjectVehicles\\USER_APP\\USER_APP.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\USER_APP\\USER_APP.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\USER_APP\\USER_APP.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\USER_APP\\USER_APP.csproj"
               }
             }
           }
@@ -455,7 +436,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -467,25 +449,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Postulación\\ProjectVehicles\\Security\\Security.csproj": {
+    "E:\\PayloadJWT\\BackPruebaVehiculo\\Security\\Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Postulación\\ProjectVehicles\\Security\\Security.csproj",
+        "projectUniqueName": "E:\\PayloadJWT\\BackPruebaVehiculo\\Security\\Security.csproj",
         "projectName": "Security",
-        "projectPath": "D:\\Postulación\\ProjectVehicles\\Security\\Security.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Postulación\\ProjectVehicles\\Security\\obj\\",
+        "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Security\\Security.csproj",
+        "packagesPath": "C:\\Users\\gabo9\\.nuget\\packages\\",
+        "outputPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Security\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gabo9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -499,8 +477,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Postulación\\ProjectVehicles\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\Domain\\Domain.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Domain\\Domain.csproj"
               }
             }
           }
@@ -542,7 +520,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -554,25 +533,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Postulación\\ProjectVehicles\\USER_APP\\USER_APP.csproj": {
+    "E:\\PayloadJWT\\BackPruebaVehiculo\\USER_APP\\USER_APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Postulación\\ProjectVehicles\\USER_APP\\USER_APP.csproj",
+        "projectUniqueName": "E:\\PayloadJWT\\BackPruebaVehiculo\\USER_APP\\USER_APP.csproj",
         "projectName": "USER_APP",
-        "projectPath": "D:\\Postulación\\ProjectVehicles\\USER_APP\\USER_APP.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "D:\\Postulación\\ProjectVehicles\\USER_APP\\obj\\",
+        "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\USER_APP\\USER_APP.csproj",
+        "packagesPath": "C:\\Users\\gabo9\\.nuget\\packages\\",
+        "outputPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\USER_APP\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gabo9\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -586,14 +561,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Postulación\\ProjectVehicles\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\Entities\\Entities.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\Entities\\Entities.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Entities\\Entities.csproj"
               },
-              "D:\\Postulación\\ProjectVehicles\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\Persistence\\Persistence.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\Persistence\\Persistence.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Persistence\\Persistence.csproj"
               },
-              "D:\\Postulación\\ProjectVehicles\\Security\\Security.csproj": {
-                "projectPath": "D:\\Postulación\\ProjectVehicles\\Security\\Security.csproj"
+              "E:\\PayloadJWT\\BackPruebaVehiculo\\Security\\Security.csproj": {
+                "projectPath": "E:\\PayloadJWT\\BackPruebaVehiculo\\Security\\Security.csproj"
               }
             }
           }
@@ -623,7 +598,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -632,7 +608,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     }

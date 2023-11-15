@@ -8,6 +8,6 @@ namespace Security.SecurityToken.Contracts
     public interface IJwtGenerador
     {
 
-        string CrearToken(User usuario);
+        string CrearToken(UserJWT usuario);
     }
 }

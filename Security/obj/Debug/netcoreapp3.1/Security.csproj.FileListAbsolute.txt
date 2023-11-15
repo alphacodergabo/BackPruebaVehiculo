@@ -11,3 +11,17 @@ D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.csproj
 D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.csproj.CopyComplete
 D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.dll
 D:\Postulación\ProjectVehicles\Security\obj\Debug\netcoreapp3.1\Security.pdb
+E:\PayloadJWT\BackPruebaVehiculo\Security\bin\Debug\netcoreapp3.1\Security.deps.json
+E:\PayloadJWT\BackPruebaVehiculo\Security\bin\Debug\netcoreapp3.1\Security.dll
+E:\PayloadJWT\BackPruebaVehiculo\Security\bin\Debug\netcoreapp3.1\Security.pdb
+E:\PayloadJWT\BackPruebaVehiculo\Security\bin\Debug\netcoreapp3.1\Domain.dll
+E:\PayloadJWT\BackPruebaVehiculo\Security\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\PayloadJWT\BackPruebaVehiculo\Security\obj\Debug\netcoreapp3.1\Security.csproj.AssemblyReference.cache
+E:\PayloadJWT\BackPruebaVehiculo\Security\obj\Debug\netcoreapp3.1\Security.GeneratedMSBuildEditorConfig.editorconfig
+E:\PayloadJWT\BackPruebaVehiculo\Security\obj\Debug\netcoreapp3.1\Security.AssemblyInfoInputs.cache
+E:\PayloadJWT\BackPruebaVehiculo\Security\obj\Debug\netcoreapp3.1\Security.AssemblyInfo.cs
+E:\PayloadJWT\BackPruebaVehiculo\Security\obj\Debug\netcoreapp3.1\Security.csproj.CoreCompileInputs.cache
+E:\PayloadJWT\BackPruebaVehiculo\Security\obj\Debug\netcoreapp3.1\Security.csproj.CopyComplete
+E:\PayloadJWT\BackPruebaVehiculo\Security\obj\Debug\netcoreapp3.1\Security.dll
+E:\PayloadJWT\BackPruebaVehiculo\Security\obj\Debug\netcoreapp3.1\Security.pdb
+E:\PayloadJWT\BackPruebaVehiculo\Security\obj\Debug\netcoreapp3.1\Security.sourcelink.json

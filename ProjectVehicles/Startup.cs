@@ -1,4 +1,5 @@
 using Domain;
+using FluentAssertions.Common;
 using FluentValidation.AspNetCore;
 using IT_APP;
 using MediatR;
@@ -44,10 +45,11 @@ namespace ProjectVehicles
         public void ConfigureServices(IServiceCollection services)
         {
             string encryptionKid = Configuration["secretKey"];
-            services.AddDbContext<AplicationContext>(opt => {
-                opt.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"),
-                    sqlServerOptions => sqlServerOptions.CommandTimeout(360));
-            });
+            //services.AddDbContext<AplicationContext>(opt => {
+            //    opt.UseSqlite(Configuration.GetConnectionString("DefaultConnection"),
+            //        sqlServerOptions => sqlServerOptions.CommandTimeout(360));
+            //});
+            services.AddDbContext<AplicationContext>(opt => opt.UseSqlite("Data Source=Prueba.db"));
             services.AddMediatR(typeof(Login.Manejador).Assembly);
             services.AddMediatR(typeof(GetUserInfo.Manejado).Assembly);
             services.AddControllers().AddNewtonsoftJson(options =>

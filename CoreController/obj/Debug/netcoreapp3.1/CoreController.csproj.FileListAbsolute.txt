@@ -8,3 +8,14 @@ D:\Postulación\ProjectVehicles\CoreController\obj\Debug\netcoreapp3.1\CoreContr
 D:\Postulación\ProjectVehicles\CoreController\obj\Debug\netcoreapp3.1\CoreController.csproj.CoreCompileInputs.cache
 D:\Postulación\ProjectVehicles\CoreController\obj\Debug\netcoreapp3.1\CoreController.dll
 D:\Postulación\ProjectVehicles\CoreController\obj\Debug\netcoreapp3.1\CoreController.pdb
+E:\PayloadJWT\BackPruebaVehiculo\CoreController\bin\Debug\netcoreapp3.1\CoreController.deps.json
+E:\PayloadJWT\BackPruebaVehiculo\CoreController\bin\Debug\netcoreapp3.1\CoreController.dll
+E:\PayloadJWT\BackPruebaVehiculo\CoreController\bin\Debug\netcoreapp3.1\CoreController.pdb
+E:\PayloadJWT\BackPruebaVehiculo\CoreController\obj\Debug\netcoreapp3.1\CoreController.csproj.AssemblyReference.cache
+E:\PayloadJWT\BackPruebaVehiculo\CoreController\obj\Debug\netcoreapp3.1\CoreController.GeneratedMSBuildEditorConfig.editorconfig
+E:\PayloadJWT\BackPruebaVehiculo\CoreController\obj\Debug\netcoreapp3.1\CoreController.AssemblyInfoInputs.cache
+E:\PayloadJWT\BackPruebaVehiculo\CoreController\obj\Debug\netcoreapp3.1\CoreController.AssemblyInfo.cs
+E:\PayloadJWT\BackPruebaVehiculo\CoreController\obj\Debug\netcoreapp3.1\CoreController.csproj.CoreCompileInputs.cache
+E:\PayloadJWT\BackPruebaVehiculo\CoreController\obj\Debug\netcoreapp3.1\CoreController.dll
+E:\PayloadJWT\BackPruebaVehiculo\CoreController\obj\Debug\netcoreapp3.1\CoreController.pdb
+E:\PayloadJWT\BackPruebaVehiculo\CoreController\obj\Debug\netcoreapp3.1\CoreController.sourcelink.json

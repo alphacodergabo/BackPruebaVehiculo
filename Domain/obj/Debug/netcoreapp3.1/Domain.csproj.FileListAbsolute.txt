@@ -8,3 +8,14 @@ D:\Postulación\ProjectVehicles\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyIn
 D:\Postulación\ProjectVehicles\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 D:\Postulación\ProjectVehicles\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 D:\Postulación\ProjectVehicles\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\PayloadJWT\BackPruebaVehiculo\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\PayloadJWT\BackPruebaVehiculo\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\PayloadJWT\BackPruebaVehiculo\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\PayloadJWT\BackPruebaVehiculo\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+E:\PayloadJWT\BackPruebaVehiculo\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\PayloadJWT\BackPruebaVehiculo\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\PayloadJWT\BackPruebaVehiculo\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\PayloadJWT\BackPruebaVehiculo\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\PayloadJWT\BackPruebaVehiculo\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\PayloadJWT\BackPruebaVehiculo\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\PayloadJWT\BackPruebaVehiculo\Domain\obj\Debug\netcoreapp3.1\Domain.sourcelink.json
